@@ -23,7 +23,7 @@ A text editor or IDE (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code).
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/password-tool-gui.git
+git clone https://github.com/yeddala-sukumar/advanced-password-genarated-tool.git
 cd password-tool-gui
 Compile the program:
 javac PasswordToolGUI.java
