@@ -9,7 +9,7 @@ Intuitive Java Swing-based GUI.
 
 Setup
 Clone the repository:
-git clone 
+git clone https://github.com/yeddala-sukumar/advanced-password-genarated-tool.git
 cd password-tool-gui
 
 
